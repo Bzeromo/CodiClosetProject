@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>396107839888-qbru333cit1frquh18vcqg9t53c51d3j.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.396107839888-qbru333cit1frquh18vcqg9t53c51d3j</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAVtpq-s0YgeTeOn2hpV6_qjS4xkzRAvpA</string>
+	<key>GCM_SENDER_ID</key>
+	<string>396107839888</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.realcodicloset</string>
+	<key>PROJECT_ID</key>
+	<string>codicloset-bc77c</string>
+	<key>STORAGE_BUCKET</key>
+	<string>codicloset-bc77c.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:396107839888:ios:bbb389bc024572b6199b15</string>
+</dict>
+</plist>

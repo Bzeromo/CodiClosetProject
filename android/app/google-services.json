@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "396107839888",
+    "project_id": "codicloset-bc77c",
+    "storage_bucket": "codicloset-bc77c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:396107839888:android:ff2fee275949544b199b15",
+        "android_client_info": {
+          "package_name": "com.example.realcodicloset"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "396107839888-8c124bai4hgbjm6aj70jhj0ibv0rbl6q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCp8Xd1bu7nlHRXb8gRL7LydEY20upb8cE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "396107839888-8c124bai4hgbjm6aj70jhj0ibv0rbl6q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
